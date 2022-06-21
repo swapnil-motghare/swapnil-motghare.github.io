@@ -1,0 +1,43 @@
+---
+title: "Research"
+#description: "These are the research papers I am working on"
+---
+
+```{r set-options, echo=FALSE, cache=FALSE}
+options(width = 1800)
+```
+
+## Published Papers
+**[The Long-run Elasticity of Labor Supply: New Evidence for New York City Taxicab Drivers, Labour Economics, August 2021](https://www.sciencedirect.com/science/article/abs/pii/S0927537121000609)**\
+*New York City taxicab drivers worked fewer hours following a wage increase.*
+<details>
+  <summary>Abstract</summary>
+I study how New York City taxicab drivers change their work hours in response to a permanent wage change. Exploiting the effective wage increase induced by a regulatory change in fares, I estimate the long-run elasticity of labor supply to be -0.5. I show that the data limitations may have biased the estimates in a previous study that also use data for New York City taxicab drivers. Since the drivers are almost exclusively males, the estimate likely represents male labor supply elasticity. The negative elasticity is consistent with rising wages and declining work hours per worker observed over many decades and is useful evidence for policymakers to improve tax/ transfer systems.
+</details> 
+
+
+## Working Papers
+**[Equity of COVID-19-induced job loss duration and effect of unemployment insurance generosity on labor supply](files/ui_paper.pdf)**\
+*Unemployment insurance during COVID-19 had a small effect on Indiana's unemployment.*
+<details>
+  <summary>Abstract</summary>
+I study COVID-19-induced job losses using administrative data on the universe of Unemployment Insurance claims for the state of Indiana. I show that during the pandemic, women and Blacks not only lost more jobs but also stayed unemployed longer. I document sharp reductions in the aggregate number of Unemployment Insurance recipients after the expiration of the Federal Pandemic Unemployment Compensation (FPUC) and Lost Wages Assistance (LWA) payments. Using difference-in-difference strategy exploiting the eligibility for LWA benefits, I find that a change in benefit amount by $300 per week is associated with a 30-35% change in exit rate from unemployment in opposite direction. The unemployment rate in August 2020 would have been lower by 0.1 percentage points if not for LWA. It is unlikely that these payments were a major factor in explaining the difficulty business faced in finding workers in the first half of 2021.
+</details> 
+
+**[Contemporaneous and Lasting Effects of Electoral Gender Quotas](files/gender_quotas_paper.pdf)**\
+*Gender quotas in India increase women representation without large negative effects.*
+<details>
+  <summary>Abstract</summary>
+We study the effect of gender quotas on election competitiveness, caste composition of the winning candidates, spillover effects at downstream positions, and their lasting effects after they are no longer binding. We use newly compiled data on reserved seat quotas for women in village councils in the Indian state of Jharkhand for two consecutive elections. We find that gender quotas reduce election competitiveness, but only in the first round of elections, they do not affect the caste composition of the winning candidates, nor do they have any spillover effects on other lower hierarchy positions in the council. Village council head positions subjected to mandated reserved seat quotas continue to elect more women as compared to those not subjected to the quotas, even after the quotas are no longer binding. The results suggest that quotas are useful when women are unable to win in their absence and that temporary electoral gender quotas can be an effective policy tool to increase long-run women's political representation. The results are pertinent for temporary affirmative action policies addressing other forms of discrimination.
+</details> 
+
+## Research in progress
+**Intertemporal Elasticity of Labor Supply for Taxicab drivers: Evidence using a new instrument**\
+
+**Effect of Electoral Gender Quotas on Economic Development, (with Roshani Bulkunde)**\
+
+## Non-academic research
+| **Development of an [economy tracker](https://pulte.shinyapps.io/sbeconomydb/) for South Bend - Mishawaka region**
+| **Principal Investigator for [work-travel transport subsidy program](https://www.commuterstrust.com/) being implemented by the City of South Bend**
+|    - [Report](files/ct_report.pdf)
+

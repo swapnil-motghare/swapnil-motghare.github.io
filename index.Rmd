@@ -1,0 +1,23 @@
+---
+title: "Swapnil Motghare"
+site: distill::distill_website
+---
+
+::: {.floatting}
+
+```{r echo=FALSE,out.width='40%', out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("images/swapnil_jm_picture.jpg")
+```
+
+
+I am an Assistant Research Professor in the Lucy Family Institute for Data & Society at the University of Notre Dame.
+
+I am an Applied Microeconomist with research interests in Labor Economics, and Development Economics.
+
+You can download my CV from this link: [CV](files/CV.pdf)
+
+Contact:\
+smotghare@nd.edu\
++1 (512) 293-0211\
+304 Hesburgh Center, Notre Dame, IN 46556 USA 
+:::
