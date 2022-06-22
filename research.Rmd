@@ -2,11 +2,6 @@
 title: "Research"
 #description: "These are the research papers I am working on"
 ---
-
-```{r set-options, echo=FALSE, cache=FALSE}
-options(width = 1800)
-```
-
 ## Published Papers
 **[The Long-run Elasticity of Labor Supply: New Evidence for New York City Taxicab Drivers, Labour Economics, August 2021](https://www.sciencedirect.com/science/article/abs/pii/S0927537121000609)**\
 *New York City taxicab drivers worked fewer hours following a wage increase.*
@@ -14,7 +9,6 @@ options(width = 1800)
   <summary>Abstract</summary>
 I study how New York City taxicab drivers change their work hours in response to a permanent wage change. Exploiting the effective wage increase induced by a regulatory change in fares, I estimate the long-run elasticity of labor supply to be -0.5. I show that the data limitations may have biased the estimates in a previous study that also use data for New York City taxicab drivers. Since the drivers are almost exclusively males, the estimate likely represents male labor supply elasticity. The negative elasticity is consistent with rising wages and declining work hours per worker observed over many decades and is useful evidence for policymakers to improve tax/ transfer systems.
 </details> 
-
 
 ## Working Papers
 **[Equity of COVID-19-induced job loss duration and effect of unemployment insurance generosity on labor supply](files/ui_paper.pdf)**\
