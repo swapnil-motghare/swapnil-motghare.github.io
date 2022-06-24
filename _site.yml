@@ -15,5 +15,4 @@ navbar:
 output: 
   distill::distill_article:
     css: styles.css
-    
-    bibliography: biblio.yaml
+bibliography: intertemporal_references.bib

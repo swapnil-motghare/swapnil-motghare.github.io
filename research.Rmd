@@ -2,6 +2,7 @@
 title: "Research"
 #description: "These are the research papers I am working on"
 ---
+
 ## Published Papers
 **[The Long-run Elasticity of Labor Supply: New Evidence for New York City Taxicab Drivers, Labour Economics, August 2021](https://www.sciencedirect.com/science/article/abs/pii/S0927537121000609)**\
 *New York City taxicab drivers worked fewer hours following a wage increase.*

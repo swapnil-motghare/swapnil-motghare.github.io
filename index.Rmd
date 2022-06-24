@@ -3,6 +3,16 @@ title: "Swapnil Motghare"
 site: distill::distill_website
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PK15X6LH4Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PK15X6LH4Z');
+</script>
+
 ::: {.floatting}
 
 ```{r echo=FALSE,out.width='40%', out.extra='style="float:left; padding:10px"'}
