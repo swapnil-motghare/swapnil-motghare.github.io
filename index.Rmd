@@ -15,6 +15,8 @@ site: distill::distill_website
 
 google-site-verification=mGPM6FKlKAcCfPDpOZ6-zrjs-VNEnYdbTwTTLUs7jZg
 
+google-site-verification=mGPM6FKlKAcCfPDpOZ6-zrjs-VNEnYdbTwTTLUs7jZg
+
 ::: {.floatting}
 
 ```{r echo=FALSE,out.width='40%', out.extra='style="float:left; padding:10px"'}
