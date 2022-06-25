@@ -1,10 +1,11 @@
 ---
 title: "Research"
 #description: "These are the research papers I am working on"
+bibliography: intertemporal_references.bib
 ---
 
 ## Published Papers
-**[The Long-run Elasticity of Labor Supply: New Evidence for New York City Taxicab Drivers, Labour Economics, August 2021](https://www.sciencedirect.com/science/article/abs/pii/S0927537121000609)**\
+**Motghare, S. (2021). [The long-run elasticity of labor supply: New evidence for new york city taxicab drivers.](https://www.sciencedirect.com/science/article/abs/pii/S0927537121000609) _Labour Economics_**
 *New York City taxicab drivers worked fewer hours following a wage increase.*
 <details>
   <summary>Abstract</summary>
