@@ -21,7 +21,7 @@ I study COVID-19-induced job losses using administrative data on the universe of
 </details> 
 
 **[Contemporaneous and Lasting Effects of Electoral Gender Quotas](files/gender_quotas_paper.pdf)**\
-*Gender quotas in India increase women representation without large negative effects.*
+*Gender quotas in India increased women representation without large negative effects.*
 <details>
   <summary>Abstract</summary>
 We study the effect of gender quotas on election competitiveness, caste composition of the winning candidates, spillover effects at downstream positions, and their lasting effects after they are no longer binding. We use newly compiled data on reserved seat quotas for women in village councils in the Indian state of Jharkhand for two consecutive elections. We find that gender quotas reduce election competitiveness, but only in the first round of elections, they do not affect the caste composition of the winning candidates, nor do they have any spillover effects on other lower hierarchy positions in the council. Village council head positions subjected to mandated reserved seat quotas continue to elect more women as compared to those not subjected to the quotas, even after the quotas are no longer binding. The results suggest that quotas are useful when women are unable to win in their absence and that temporary electoral gender quotas can be an effective policy tool to increase long-run women's political representation. The results are pertinent for temporary affirmative action policies addressing other forms of discrimination.
@@ -29,8 +29,10 @@ We study the effect of gender quotas on election competitiveness, caste composit
 
 ## Research in progress
 **Intertemporal Elasticity of Labor Supply for Taxicab drivers: Evidence using a new instrument**\
+*Do workers work more if wages are high?*
 
 **Effect of Electoral Gender Quotas on Economic Development, (with Roshani Bulkunde)**\
+*Do gender quotas affect economic development?*
 
 ## Non-academic research
 | **Development of an [economy tracker](https://pulte.shinyapps.io/sbeconomydb/) for South Bend - Mishawaka region**
