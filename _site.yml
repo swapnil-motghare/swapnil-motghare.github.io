@@ -18,4 +18,4 @@ output:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-google_site_verification: mGPM6FKlKAcCfPDpOZ6-zrjs-VNEnYdbTwTTLUs7jZg
+google_site_verification: "mGPM6FKlKAcCfPDpOZ6-zrjs-VNEnYdbTwTTLUs7jZg"
