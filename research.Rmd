@@ -1,7 +1,6 @@
 ---
 title: "Research"
 #description: "These are the research papers I am working on"
-bibliography: intertemporal_references.bib
 ---
 
 ## Published Papers
