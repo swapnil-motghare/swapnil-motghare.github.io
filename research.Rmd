@@ -8,7 +8,10 @@ title: "Research"
 *New York City taxicab drivers worked fewer hours following a wage increase.*
 <details>
   <summary>Abstract</summary>
-I study how New York City taxicab drivers change their work hours in response to a permanent wage change. Exploiting the effective wage increase induced by a regulatory change in fares, I estimate the long-run elasticity of labor supply to be -0.5. I show that the data limitations may have biased the estimates in a previous study that also use data for New York City taxicab drivers. Since the drivers are almost exclusively males, the estimate likely represents male labor supply elasticity. The negative elasticity is consistent with rising wages and declining work hours per worker observed over many decades and is useful evidence for policymakers to improve tax/ transfer systems.
+I study how New York City taxicab drivers change their work hours in response to a permanent wage change. Exploiting the effective wage increase induced by a regulatory change in fares, I estimate the long-run elasticity of labor supply to be -0.5. I show that the data limitations may have biased the estimates in a previous study that also use data for New York City taxicab drivers. Since the drivers are almost exclusively males, the estimate likely represents male labor supply elasticity. The negative elasticity is consistent with rising wages and declining work hours per worker observed over many decades and is useful evidence for policymakers to improve tax/ transfer systems.\
+```{r echo=FALSE}
+knitr::include_graphics("graphs/avg_hrs_wage.png")
+```
 </details> 
 
 ## Working Papers

@@ -20,14 +20,11 @@ knitr::include_graphics("images/swapnil_jm_picture.jpg")
 ```
 
 
-I am an Assistant Research Professor in the Lucy Family Institute for Data & Society at the University of Notre Dame.
+I am an Assistant Research Professor in the Lucy Family Institute for Data & Society at the University of Notre Dame. I completed my PhD in Economics from the University of Arizona in 2019.
 
-I am an Applied Microeconomist with research interests in Labor Economics, and Development Economics.
+I am an Applied Microeconomist with research interests in Labor Economics and Development Economics. 
 
 You can download my CV from this link: [CV](files/CV.pdf)
 
-Contact:\
-smotghare@nd.edu\
-+1 (512) 293-0211\
-622 Flanner Hall, Notre Dame, IN 46556 USA 
+Email: smotghare@nd.edu
 :::

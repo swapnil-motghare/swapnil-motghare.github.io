@@ -2123,29 +2123,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-PK15X6LH4Z"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-PK15X6LH4Z');
-</script>
-<div class="floatting">
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="images/swapnil_jm_picture.jpg" width="30%" style="float:left; padding:10px" /></p>
+<iframe src="plotly_html.html" width="30%" height="400px" data-external="1" style="float:left; padding:10px">
+</iframe>
 </div>
-<p>I am an Assistant Research Professor in the Lucy Family Institute for
-Data &amp; Society at the University of Notre Dame. I completed my PhD
-in Economics from the University of Arizona in 2019.</p>
-<p>I am an Applied Microeconomist with research interests in Labor
-Economics and Development Economics.</p>
-<p>You can download my CV from this link: <a
-href="files/CV.pdf">CV</a></p>
-<p>Email: <a href="mailto:smotghare@nd.edu"
-class="email">smotghare@nd.edu</a></p>
-</div>
+<p>{% include plotly_html.html %}</p>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
