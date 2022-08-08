@@ -1,6 +1,10 @@
 ---
 title: "Swapnil Motghare"
 site: distill::distill_website
+tags:
+- swapnil motghare
+- swapnil economics
+- swapnil motghare economics
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
