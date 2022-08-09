@@ -3,6 +3,7 @@ title: "Swapnil Motghare"
 #theme: theme.css
 description: |
   Academic website
+base_url: https://swapnil-motghare.github.io/
 output_dir: "docs"
 navbar:
   right:
