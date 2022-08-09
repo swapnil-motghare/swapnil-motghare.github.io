@@ -13,6 +13,8 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Sitemap"
+      href: sitemap.xml
 #    - text: "Test"
 #      href: test.html
 output: 
