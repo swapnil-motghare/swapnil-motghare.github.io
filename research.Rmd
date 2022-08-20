@@ -22,7 +22,7 @@ knitr::include_graphics("graphs/avg_hrs_wage.png")
 I study COVID-19-induced job losses using administrative data on the universe of Unemployment Insurance claims for the state of Indiana. I show that during the pandemic, women and Blacks not only lost more jobs but also stayed unemployed longer. I document sharp reductions in the aggregate number of Unemployment Insurance recipients after the expiration of the Federal Pandemic Unemployment Compensation (FPUC) and Lost Wages Assistance (LWA) payments. Using difference-in-difference strategy exploiting the eligibility for LWA benefits, I find that a change in benefit amount by $300 per week is associated with a 30-35% change in exit rate from unemployment in opposite direction. The unemployment rate in August 2020 would have been lower by 0.1 percentage points if not for LWA. It is unlikely that these payments were a major factor in explaining the difficulty business faced in finding workers in the first half of 2021.
 </details> 
 
-**[Contemporaneous and Lasting Effects of Electoral Gender Quotas](files/gender_quotas_paper.pdf)**\
+**[Contemporaneous and Lasting Effects of Electoral Gender Quotas](files/gender_quotas_paper.pdf) (_Revise & Resubmit, World Development_)**\
 *Gender quotas in India increased women representation without large negative effects.*
 <details>
   <summary>Abstract</summary>
