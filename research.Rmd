@@ -2,7 +2,7 @@
 title: "Research"
 #description: "These are the research papers I am working on"
 ---
-
+<!-- The one sentence description should make sense to a non-economist.  -->
 ## Published Papers
 **Motghare, S. (2021). [The long-run elasticity of labor supply: New evidence for new york city taxicab drivers.](https://www.sciencedirect.com/science/article/abs/pii/S0927537121000609) _Labour Economics_**
 *New York City taxicab drivers worked fewer hours following a wage increase.*
@@ -17,18 +17,27 @@ I study how New York City taxicab drivers change their work hours in response to
 <details>
   <summary>Abstract</summary>
 This paper examines several ways in which electoral gender quotas affect the political system. It uses data on reserved seat quotas for women in village councils in the Indian state of Jharkhand. Village council head positions subjected to gender quotas continue to elect more women even after the quotas are no longer binding. Gender quotas do not have spillover effects on other lower hierarchy positions in the council. They reduce electoral competitiveness, but only in the first round of elections and only at council member position. They do not affect the caste composition of the winning candidates. These results suggest that women’s representation may be achieved without large negative effects and that temporary electoral gender quotas can be an effective policy tool to increase long-run women’s political representation. The results are pertinent for affirmative action policies addressing other forms of discrimination.
+
 </details> 
 
-**[Equity of COVID-19-induced job loss duration and effect of unemployment insurance generosity on labor supply](files/ui_paper.pdf)**\
-*Unemployment insurance during COVID-19 had a small effect on Indiana's unemployment.*
+**[Unemployment insurance generosity and labor supply - Evidence from the COVID-19 recession](files/ui_paper.pdf)**\
+*Unemployment insurance during COVID-19 had a modest effect on Indiana's unemployment and likely prevented labor force exits.*
 <details>
   <summary>Abstract</summary>
-I study COVID-19-induced job losses using administrative data on the universe of Unemployment Insurance claims for the state of Indiana. I show that during the pandemic, women and Blacks not only lost more jobs but also stayed unemployed longer. I document sharp reductions in the aggregate number of Unemployment Insurance recipients after the expiration of the Federal Pandemic Unemployment Compensation (FPUC) and Lost Wages Assistance (LWA) payments. Using difference-in-difference strategy exploiting the eligibility for LWA benefits, I find that a change in benefit amount by $300 per week is associated with a 30-35% change in exit rate from unemployment in opposite direction. The unemployment rate in August 2020 would have been lower by 0.1 percentage points if not for LWA. It is unlikely that these payments were a major factor in explaining the difficulty business faced in finding workers in the first half of 2021.
+I study the effect of Unemployment Insurance (UI) generosity during the COVID-19 recession using administrative data on the universe of Unemployment Insurance claims for the state of Indiana. The difference-in-difference identification strategy exploits the timing of the expiration of the Federal Pandemic Unemployment Compensation (FPUC) and the Lost Wages Assistance (LWA) programs and the eligibility rule for the LWA program, which paid eligible workers an extra \$300 per week for up to 6 weeks. A change in weekly benefit amount by $300 is associated with a change in the exit rate out of unemployment by 2.1 percentage points
+(p.p.) in the opposite direction. This is because of both a decline in the reemployment rate (1.7 p. p.) which represents the disincentive or the moral hazard effect of UI, and a decline in labor force exits (0.4 p. p.) which suggests the ability of UI to keep workers in the labor force or the labor force participation effect. Access to six weeks of increased benefit amounts did not change workers’ probability of switching employers, nor significantly affect their earnings after reemployment, suggesting worker-firm match quality was unaffected.
+```{r echo=FALSE,out.width='100%', out.extra='style="float:center; padding:10px"'}
+knitr::include_graphics("graphs/ui_labor_supply_website_graph.png")
+```
 </details> 
 
 
 
 ## Research in progress
+**Equity of COVID-19-induced job loss duration**\
+*How does the duration of unemployment during the pandemic vary by gender, race, and ethnicity?*
+
+
 **Intertemporal Elasticity of Labor Supply for Taxicab drivers: Evidence using a new instrument**\
 *Do workers work more if wages are high?*
 
