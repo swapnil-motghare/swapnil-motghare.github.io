@@ -20,7 +20,7 @@ This paper examines several ways in which electoral gender quotas affect the pol
 
 </details> 
 
-**[Unemployment insurance generosity and labor supply - Evidence from the COVID-19 recession](files/ui_paper.pdf)**\
+**[Unemployment insurance generosity and labor supply - Evidence from the COVID-19 recession](files/ui_labor_supply.pdf)**\
 *Unemployment insurance during COVID-19 had a modest effect on Indiana's unemployment and likely prevented labor force exits.*
 <details>
   <summary>Abstract</summary>
@@ -30,19 +30,20 @@ I study the effect of Unemployment Insurance (UI) generosity during the COVID-19
 knitr::include_graphics("graphs/ui_labor_supply_website_graph.png")
 ```
 </details> 
-
+<details>
+  <summary>[Poster for AEA Annual Meeting](files/aea_poster.pdf)</summary>
+</details> 
 
 
 ## Research in progress
 **Equity of COVID-19-induced job loss duration**\
-*How does the duration of unemployment during the pandemic vary by gender, race, and ethnicity?*
-
-
-**Intertemporal Elasticity of Labor Supply for Taxicab drivers: Evidence using a new instrument**\
-*Do workers work more if wages are high?*
+*How does the duration of unemployment during the COVID-19 pandemic vary by gender, race, and ethnicity?*
 
 **Evaluating Right-to-Work laws, (with Ye Ji Kee and [Yong Suk Lee](https://keough.nd.edu/profile/yong-suk-lee/))**\
 *How do RTW laws affect the labor market, automation technology adoption, and firm productivity?*
+
+**Intertemporal Elasticity of Labor Supply for Taxicab drivers: Evidence using a new instrument**\
+*Do workers work more when wages are high?*
 
 ## Non-academic research
 | **Development of an [economy tracker](https://pulte.shinyapps.io/sbeconomydb/) for South Bend - Mishawaka region**
