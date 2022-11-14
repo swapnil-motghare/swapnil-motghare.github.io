@@ -3,7 +3,7 @@ title: "Research"
 #description: "These are the research papers I am working on"
 ---
 <!-- The one sentence description should make sense to a non-economist.  -->
-## Published Papers
+## Published papers
 **Motghare, S. (2021). [The long-run elasticity of labor supply: New evidence for new york city taxicab drivers.](https://www.sciencedirect.com/science/article/abs/pii/S0927537121000609) _Labour Economics_**
 *New York City taxicab drivers worked fewer hours following a wage increase.*
 <details>
@@ -11,7 +11,7 @@ title: "Research"
 I study how New York City taxicab drivers change their work hours in response to a permanent wage change. Exploiting the effective wage increase induced by a regulatory change in fares, I estimate the long-run elasticity of labor supply to be -0.5. I show that the data limitations may have biased the estimates in a previous study that also use data for New York City taxicab drivers. Since the drivers are almost exclusively males, the estimate likely represents male labor supply elasticity. The negative elasticity is consistent with rising wages and declining work hours per worker observed over many decades and is useful evidence for policymakers to improve tax/ transfer systems.\
 </details> 
 
-## Working Papers
+## Working papers
 **[Contemporaneous and Lasting Effects of Electoral Gender Quotas](files/gender_quotas_paper.pdf) (_Revision submitted, World Development_)**\
 *Gender quotas in India increased women representation without large negative effects.*
 <details>
@@ -45,8 +45,9 @@ knitr::include_graphics("graphs/ui_labor_supply_website_graph.png")
 **Intertemporal Elasticity of Labor Supply for Taxicab drivers: Evidence using a new instrument**\
 *Do workers work more when wages are high?*
 
-## Non-academic research
-| **Development of an [economy tracker](https://pulte.shinyapps.io/sbeconomydb/) for South Bend - Mishawaka region**
-| **Principal Investigator for [work-travel transport subsidy program](https://www.commuterstrust.com/) being implemented by the City of South Bend**
-|    - [Report](files/ct_report.pdf)
+## Policy reports
+**[Impact Evaluation: City of South Bend Commuters Trust Program](files/ct_report.pdf), (with Danice Brown Guzmán)**\
+
+## Dashboard development
+**[South Bend Economy Database](https://lucyapps.shinyapps.io/sbeconomydb/)**
 
