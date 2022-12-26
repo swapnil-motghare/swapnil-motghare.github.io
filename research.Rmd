@@ -42,7 +42,7 @@ I study COVID-19-induced job losses using administrative data on the universe of
 </details> 
 
 ## Research in progress
-**The evolving effects of electoral gender quotas over a decade**\
+**The evolving effects of electoral gender quotas over a decade, (with Roshani Bulkunde)**\
 *How much do past gender quotas affect present outcomes?*
 <details>
 ```{r echo=FALSE,out.width='100%', out.extra='style="float:center; padding:10px"'}
