@@ -4,8 +4,8 @@ title: "Teaching"
 ---
 
 **University of Notre Dame, Notre Dame, IN**\
-*International Economics: Spring 2023 (scheduled)*\
-*Workshop on R Shiny: Spring 2023 (scheduled)*
+*International Economics: Spring 2023*\
+*Workshop on R Shiny: Spring 2023*
 
 **University of Arizona, Tucson, AZ**\
 *Macroeconomic and Global Institutions and Policy (Online): Summer, Winter – 2016, Summer, Winter – 2017, Summer – 2018*\
