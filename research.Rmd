@@ -42,14 +42,6 @@ I study COVID-19-induced job losses using administrative data on the universe of
 </details> 
 
 ## Research in progress
-**The evolving effects of electoral gender quotas over a decade, (with Roshani Bulkunde)**\
-*How much do past gender quotas affect present outcomes?*
-<details>
-```{r echo=FALSE,out.width='100%', out.extra='style="float:center; padding:10px"'}
-knitr::include_graphics("graphs/evolving_website_graph.png")
-```
-</details>
-
 **Evaluating Right-to-Work laws using Census data, (with Ye Ji Kee and [Yong Suk Lee](https://keough.nd.edu/profile/yong-suk-lee/))**\
 *How do RTW laws affect the labor market, automation technology adoption, and firm productivity?*
 
