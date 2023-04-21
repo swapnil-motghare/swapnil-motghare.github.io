@@ -12,7 +12,7 @@ I study how New York City taxicab drivers change their work hours in response to
 </details> 
 
 ## Working papers
-**[Contemporaneous and Lasting Effects of Electoral Gender Quotas](files/gender_quotas_paper.pdf) (_Revision submitted, World Development_)**\
+**[Contemporaneous and Lasting Effects of Electoral Gender Quotas](files/gender_quotas_paper.pdf) (_Forthcoming, World Development_)**\
 *Gender quotas in India increased women representation without large negative effects.*
 <details>
   <summary>Abstract</summary>
