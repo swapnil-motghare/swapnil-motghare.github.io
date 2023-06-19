@@ -13,3 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
+WebsitePath: D:/smotghar nd edu/R work directory/swapnil-motghare.github.io

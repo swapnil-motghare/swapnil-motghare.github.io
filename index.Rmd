@@ -25,9 +25,9 @@ knitr::include_graphics("images/swapnil_jm_picture.jpg")
 ```
 
 
-I am an Assistant Research Professor in the Lucy Family Institute for Data & Society at the University of Notre Dame. I completed my PhD in Economics from the University of Arizona in 2019.
+I am a Researcher in the California Policy Lab (CPL) at UCLA where I am part of a team focused on labor and employment. Before joining CPL, I worked as Assistant Research Professor and Postdoctoral Research Associate at the University of Notre Dame. I completed my PhD in Economics from the University of Arizona in 2019.
 
-I am an Applied Microeconomist with research interests in Labor Economics and Development Economics. 
+I am an Applied Microeconomist with research interests in Labor Economics. 
 
 You can download my CV from this link: [CV](files/CV.pdf)
 
