@@ -4,6 +4,13 @@ title: "Research"
 ---
 <!-- The one sentence description should make sense to a non-economist.  -->
 ## Published papers
+**Motghare, S. (2023). [Contemporaneous and Lasting Effects of Electoral Gender Quotas](https://www.sciencedirect.com/science/article/abs/pii/S0305750X23001109) (_World Development_)**\
+*Gender quotas in India increased women representation without large negative effects.*
+<details>
+  <summary>Abstract</summary>
+This paper examines several ways in which electoral gender quotas affect the political system. It uses data on reserved seat quotas for women in village councils in the Indian state of Jharkhand. Village council head positions subjected to gender quotas continue to elect more women even after the quotas are no longer binding. Gender quotas do not have spillover effects on other lower hierarchy positions in the council. They reduce electoral competitiveness, but only in the first round of elections and only at council member position. They do not affect the caste composition of the winning candidates. These results suggest that women’s representation may be achieved without large negative effects and that temporary electoral gender quotas can be an effective policy tool to increase long-run women’s political representation. The results are pertinent for affirmative action policies addressing other forms of discrimination.
+</details> 
+
 **Motghare, S. (2021). [The long-run elasticity of labor supply: New evidence for new york city taxicab drivers.](https://www.sciencedirect.com/science/article/abs/pii/S0927537121000609) _Labour Economics_**
 *New York City taxicab drivers worked fewer hours following a wage increase.*
 <details>
@@ -12,14 +19,6 @@ I study how New York City taxicab drivers change their work hours in response to
 </details> 
 
 ## Working papers
-**[Contemporaneous and Lasting Effects of Electoral Gender Quotas](files/gender_quotas_paper.pdf) (_Forthcoming, World Development_)**\
-*Gender quotas in India increased women representation without large negative effects.*
-<details>
-  <summary>Abstract</summary>
-This paper examines several ways in which electoral gender quotas affect the political system. It uses data on reserved seat quotas for women in village councils in the Indian state of Jharkhand. Village council head positions subjected to gender quotas continue to elect more women even after the quotas are no longer binding. Gender quotas do not have spillover effects on other lower hierarchy positions in the council. They reduce electoral competitiveness, but only in the first round of elections and only at council member position. They do not affect the caste composition of the winning candidates. These results suggest that women’s representation may be achieved without large negative effects and that temporary electoral gender quotas can be an effective policy tool to increase long-run women’s political representation. The results are pertinent for affirmative action policies addressing other forms of discrimination.
-
-</details> 
-
 **[Unemployment insurance generosity and labor supply - Evidence from the COVID-19 recession](files/ui_labor_supply.pdf)**\
 *Unemployment insurance during COVID-19 had a modest effect on Indiana's unemployment and likely prevented labor force exits.*
 <details>
