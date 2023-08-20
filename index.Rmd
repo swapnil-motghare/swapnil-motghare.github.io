@@ -26,11 +26,6 @@ knitr::include_graphics("images/swapnil_jm_picture.jpg")
 
 I am an Applied Microeconomist with research interests in Labor Economics. I currently work as Researcher in the California Policy Lab (CPL) at the University of California Los Angeles where I am part of a team focused on labor and employment. Before joining CPL, I worked as Assistant Research Professor and Postdoctoral Research Associate at the University of Notre Dame. 
 
-<<<<<<< HEAD
-I am an Applied Microeconomist with research interests in Labor Economics. I currently work as Researcher in the California Policy Lab (CPL) at the University of California Los Angeles where I am part of a team focused on labor and employment. Before joining CPL, I worked as Assistant Research Professor and Postdoctoral Research Associate at the University of Notre Dame. 
-
-=======
->>>>>>> 0162e95040905613438cb459b7d06cd826979979
 I earned a PhD in Economics from the University of Arizona, an MA in Economics from the University of Texas at Austin, a Postgraduate Diploma in Management from Indian Institute of Management Shillong, and a Bachelor of Technology in Mechanical Engineering from Mumbai University, India.
 
 You can download my CV from this link: [CV](files/CV.pdf)
