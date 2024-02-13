@@ -19,12 +19,11 @@ I study how New York City taxicab drivers change their work hours in response to
 </details> 
 
 ## Working papers
-**[Unemployment insurance generosity and labor supply - Evidence from the COVID-19 recession](files/ui_labor_supply.pdf)**\
+**Unemployment insurance generosity and labor supply - Evidence from the COVID-19 recession**\
 *Unemployment insurance during COVID-19 had a modest effect on Indiana's unemployment and likely prevented labor force exits.*
 <details>
   <summary>Abstract</summary>
-I study the effect of Unemployment Insurance (UI) generosity during the COVID-19 recession using administrative data on the universe of Unemployment Insurance claims for the state of Indiana. The difference-in-difference identification strategy exploits the timing of the expiration of the Federal Pandemic Unemployment Compensation (FPUC) and the Lost Wages Assistance (LWA) programs and the eligibility rule for the LWA program, which paid eligible workers an extra \$300 per week for up to 6 weeks. A change in weekly benefit amount by $300 is associated with a change in the exit rate out of unemployment by 2.1 percentage points
-(p.p.) in the opposite direction. This is because of both a decline in the reemployment rate (1.7 p. p.) which represents the disincentive or the moral hazard effect of UI, and a decline in labor force exits (0.4 p. p.) which suggests the ability of UI to keep workers in the labor force or the labor force participation effect. Access to six weeks of increased benefit amounts did not change workers’ probability of switching employers, nor significantly affect their earnings after reemployment, suggesting worker-firm match quality was unaffected.
+I study the effect of Unemployment Insurance (UI) generosity during the COVID-19 recession using administrative data on the universe of Unemployment Insurance claims for the state of Indiana. The difference-in-difference identification strategy exploits the timing of the expiration of the Federal Pandemic Unemployment Compensation (FPUC) and the Lost Wages Assistance (LWA) programs and the eligibility rule for the LWA program, which paid eligible workers an extra \$300 per week for up to 6 weeks. A change in weekly benefit amount by $300 is associated with a change in the exit rate out of unemployment by 2.1 percentage points (p.p.) in the opposite direction. This is because of both a decline in the reemployment rate (1.7 p. p.) which represents the disincentive or the moral hazard effect of UI, and a decline in labor force exits (0.4 p. p.) which suggests the ability of UI to keep workers in the labor force or the labor force participation effect. Access to six weeks of increased benefit amounts did not change workers’ probability of switching employers, nor significantly affect their earnings after reemployment, suggesting worker-firm match quality was unaffected.
 ```{r echo=FALSE,out.width='100%', out.extra='style="float:center; padding:10px"'}
 knitr::include_graphics("graphs/ui_labor_supply_website_graph.png")
 ```
@@ -33,7 +32,7 @@ knitr::include_graphics("graphs/ui_labor_supply_website_graph.png")
   <summary>[Poster for AEA 2023 Annual Meeting](files/aea_poster.pdf)</summary>
 </details> 
 
-**[Equity of COVID-19-induced job loss duration](files/job_loss_duration_equity.pdf)**\
+**Equity of COVID-19-induced job loss duration**\
 *How does the duration of unemployment during the COVID-19 pandemic vary by gender, race, and ethnicity?*
 <details>
   <summary>Abstract</summary>
@@ -41,16 +40,16 @@ I study COVID-19-induced job losses using administrative data on the universe of
 </details> 
 
 ## Research in progress
-**Evaluating Right-to-Work laws using Census data, (with Ye Ji Kee and [Yong Suk Lee](https://keough.nd.edu/profile/yong-suk-lee/))**\
+**Evaluating Right-to-Work laws using Census data,** (with Ye Ji Kee and [Yong Suk Lee](https://keough.nd.edu/profile/yong-suk-lee/))\
 *How do RTW laws affect the labor market, automation technology adoption, and firm productivity?*
 
-**Intertemporal Elasticity of Labor Supply for Taxicab drivers: Evidence using a new instrument**\
+**Intertemporal Elasticity of Labor Supply for Taxicab drivers: Evidence using a new instrument** (with Vikrant V Kamble)\
 *Do workers work more when wages are high?*
 
 ## Policy reports
-**[Impact Evaluation: City of South Bend Commuters Trust Program](files/ct_report.pdf), (with [Danice Brown Guzmán](https://pulte.nd.edu/people/faculty-staff/danice-brown-guzman/))**\
+**[Impact Evaluation: City of South Bend Commuters Trust Program](files/ct_report.pdf),** (with [Danice Brown Guzmán](https://pulte.nd.edu/people/faculty-staff/danice-brown-guzman/))\
 
-**[Impact Evaluation: Community Nonprofit Partner Program - South Bend’s Mayors Challenge](files/cnpp_report.pdf), (with [Danice Brown Guzmán](https://pulte.nd.edu/people/faculty-staff/danice-brown-guzman/))**\
+**[Impact Evaluation: Community Nonprofit Partner Program - South Bend’s Mayors Challenge](files/cnpp_report.pdf),** (with [Danice Brown Guzmán](https://pulte.nd.edu/people/faculty-staff/danice-brown-guzman/))\
 
 ## Dashboard development
 **[South Bend Economy Database](https://lucyapps.shinyapps.io/sbeconomydb/)**
