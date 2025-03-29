@@ -1,4 +1,5 @@
 Version: 1.0
+ProjectId: 97e87032-848a-4cbb-8467-2b01f8a2cd01
 
 RestoreWorkspace: Default
 SaveWorkspace: Default
@@ -13,4 +14,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
-WebsitePath: G:/My Drive/smotghar nd edu/R work directory/distillwebsite
+WebsitePath: ~/R work directory/distillwebsite
