@@ -40,10 +40,12 @@ I study COVID-19-induced job losses using administrative data on the universe of
 </details> 
 
 ## Research in progress
+<!-- 
 **Evaluating Right-to-Work laws using Census data,** (with Ye Ji Kee and [Yong Suk Lee](https://keough.nd.edu/profile/yong-suk-lee/))\
 *How do RTW laws affect the labor market, automation technology adoption, and firm productivity?*
+-->
 
-**Intertemporal Elasticity of Labor Supply for Taxicab drivers: Evidence using a new instrument** (with Vikrant V Kamble)\
+**Intertemporal Elasticity of Labor Supply for Taxicab drivers: Evidence using a new instrument** (with [Vikrant V Kamble](https://vikrant-v-kamble.github.io/))\
 *Do workers work more when wages are high?*
 
 ## Policy reports
