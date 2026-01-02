@@ -1,6 +1,5 @@
 ---
 title: "Research"
-#description: "These are the research papers I am working on"
 ---
 <!-- The one sentence description should make sense to a non-economist.  -->
 ## Published papers
@@ -40,16 +39,20 @@ I study COVID-19-induced job losses using administrative data on the universe of
 </details> 
 
 ## Research in progress
+<!-- 
 **Evaluating Right-to-Work laws using Census data,** (with Ye Ji Kee and [Yong Suk Lee](https://keough.nd.edu/profile/yong-suk-lee/))\
 *How do RTW laws affect the labor market, automation technology adoption, and firm productivity?*
+-->
 
-**Intertemporal Elasticity of Labor Supply for Taxicab drivers: Evidence using a new instrument** (with Vikrant V Kamble)\
+**Intertemporal Elasticity of Labor Supply for Taxicab drivers: Evidence using a new instrument** (with [Vikrant V Kamble](https://vikrant-v-kamble.github.io/))\
 *Do workers work more when wages are high?*
 
 ## Policy reports
-**[Impact Evaluation: City of South Bend Commuters Trust Program](files/ct_report.pdf),** (with [Danice Brown Guzmán](https://pulte.nd.edu/people/faculty-staff/danice-brown-guzman/))\
+**[Inventors and Unemployment Insurance: Understanding the Safety Net for Innovators](https://capolicylab.org/wp-content/uploads/2026/03/Inventors-and-Unemployment-Insurance.pdf),** (Alex Bell, Sreeraahul Kancherla, Roozbeh Moghadam, and Till von Wachter)\
 
-**[Impact Evaluation: Community Nonprofit Partner Program - South Bend’s Mayors Challenge](files/cnpp_report.pdf),** (with [Danice Brown Guzmán](https://pulte.nd.edu/people/faculty-staff/danice-brown-guzman/))\
+**[Impact Evaluation: City of South Bend Commuters Trust Program](files/ct_report.pdf),** (with [Danice Brown Guzmán](https://pulte.nd.edu/people/staff/danice-brown-guzman/))\
+
+**[Impact Evaluation: Community Nonprofit Partner Program - South Bend’s Mayors Challenge](files/cnpp_report.pdf),** (with [Danice Brown Guzmán](https://pulte.nd.edu/people/staff/danice-brown-guzman/))\
 
 ## Dashboard development
 **[South Bend Economy Database](https://lucyapps.shinyapps.io/sbeconomydb/)**
