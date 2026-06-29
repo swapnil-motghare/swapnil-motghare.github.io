@@ -55,5 +55,7 @@ I study COVID-19-induced job losses using administrative data on the universe of
 **[Impact Evaluation: Community Nonprofit Partner Program - South Bend’s Mayors Challenge](files/cnpp_report.pdf),** (with [Danice Brown Guzmán](https://pulte.nd.edu/people/staff/danice-brown-guzman/))\
 
 ## Dashboard development
+**[California AI-Unemployment Tracker (CAIT)](https://capolicylab.org/california-ai-unemployment-tracker/)**
+
 **[South Bend Economy Database](https://lucyapps.shinyapps.io/sbeconomydb/)**
 
