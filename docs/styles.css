@@ -16,6 +16,43 @@ main p:has(+ details) {
   margin-bottom: 0;
 }
 
+/* The darkly theme paints the navbar in its $primary blue (#375a7f), which has
+   no counterpart in light mode: there the navbar is #f8f9fa, a surface barely
+   lifted off the white page. Mirror that same relationship in dark rather than
+   introducing a brand colour, so the two themes match structurally.
+   Quarto puts .quarto-dark on <body> while the dark theme is active. */
+body.quarto-dark .navbar {
+  background-color: var(--bs-dark, #2d2d2d);
+}
+
+/* Quarto stamps data-bs-theme="dark" on the navbar, but cosmo paints it
+   #f8f9fa in light mode. Bootstrap therefore uses its light-on-dark link
+   colours against a near-white bar: the links land at ~1.2:1 and the active
+   one at 1.05:1, i.e. invisible. Only shows above the 992px breakpoint,
+   below which the links are collapsed behind the hamburger.
+   Dark mode already reads correctly, so scope the correction to light. */
+body.quarto-light .navbar {
+  --bs-navbar-color: rgba(0, 0, 0, 0.65);
+  --bs-navbar-hover-color: rgba(0, 0, 0, 0.9);
+  --bs-navbar-active-color: rgba(0, 0, 0, 0.9);
+  --bs-navbar-brand-color: rgba(0, 0, 0, 0.9);
+  --bs-navbar-brand-hover-color: rgba(0, 0, 0, 0.9);
+}
+
+/* The variables above do not reach the link colour on their own, so set it
+   outright. .menu-text is the span Quarto wraps each navbar label in. */
+body.quarto-light .navbar .navbar-nav .nav-link,
+body.quarto-light .navbar .navbar-nav .nav-link .menu-text {
+  color: rgba(0, 0, 0, 0.65);
+}
+
+body.quarto-light .navbar .navbar-nav .nav-link:hover,
+body.quarto-light .navbar .navbar-nav .nav-link:focus,
+body.quarto-light .navbar .navbar-nav .nav-link.active,
+body.quarto-light .navbar .navbar-nav .nav-link.active .menu-text {
+  color: rgba(0, 0, 0, 0.9);
+}
+
 /* Dark-mode switch. Quarto draws a generic toggle-switch icon, which does not
    say what it does; a moon/sun reads as "change the lighting" at a glance.
    Swapped to glyphs from the bootstrap-icons font that the theme already
