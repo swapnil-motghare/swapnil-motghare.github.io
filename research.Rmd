@@ -18,6 +18,14 @@ I study how New York City taxicab drivers change their work hours in response to
 </details> 
 
 ## Working papers
+**Intertemporal Elasticity of Labor Supply for Taxicab drivers: Evidence using a new instrument** (with [Vikrant V Kamble](https://vikrant-v-kamble.github.io/))\
+*Do workers work more when wages are high?*
+
+<details>
+  <summary>Abstract</summary>
+We estimate the intertemporal elasticity of labor supply for New York City taxicab drivers using a new instrument: the type of taximeter installed in the vehicle. The two meter systems in use display different default tip percentages, generating plausibly exogenous variation in tip income and hourly pay across shifts. Assignment to the “high‑default” meter raises hourly wages by 0.5 percent, entirely through tips, and increases shift hours by 0.9 percent, implying an elasticity of 1.7. These findings align with the standard neoclassical prediction that workers supply more hours when temporary pay rises and shed light on labor‑supply behavior in flexible, schedule‑setting work environments more broadly.
+</details>
+
 **Unemployment insurance generosity and labor supply - Evidence from the COVID-19 recession**\
 *Unemployment insurance during COVID-19 had a modest effect on Indiana's unemployment and likely prevented labor force exits.*
 <details>
@@ -38,14 +46,10 @@ knitr::include_graphics("graphs/ui_labor_supply_website_graph.png")
 I study COVID-19-induced job losses using administrative data on the universe of Unemployment Insurance claims for the state of Indiana. I show that during the pandemic, women and Blacks not only lost more jobs but also stayed unemployed longer. The differences in job loss duration for Black-whites are much bigger than men-women and a smaller portion of the gap is explained by observable characteristics. The differences in duration emerge due to later ending of the unemployment spell rather than early beginning consistent with the last hired but not with the first firing of Blacks during weak economic periods. The adverse effects of the COVID-19 recession for women and Blacks were thus worse than implied by only the job losses.
 </details> 
 
-## Research in progress
-<!-- 
+<!-- ## Research in progress
 **Evaluating Right-to-Work laws using Census data,** (with Ye Ji Kee and [Yong Suk Lee](https://keough.nd.edu/profile/yong-suk-lee/))\
 *How do RTW laws affect the labor market, automation technology adoption, and firm productivity?*
 -->
-
-**Intertemporal Elasticity of Labor Supply for Taxicab drivers: Evidence using a new instrument** (with [Vikrant V Kamble](https://vikrant-v-kamble.github.io/))\
-*Do workers work more when wages are high?*
 
 ## Policy reports
 **[Tracking AI-Related Job Loss Using Unemployment Insurance Claims Data in California](https://capolicylab.org/wp-content/uploads/2026/06/Tracking-AI-Related-Job-Loss-Using-Unemployment-Insurance-Claims-Data-in-California.pdf),** (with Ben Hyman, Till von Wachter, Diana Herrera, Roozbeh Moghadam, Jacob Morris, Swapnil Motghare and Kara Segal)\

@@ -4,6 +4,13 @@ h1, h2, h3, h4, h5, h6 {
     border:0;
 }
 
+/* Paper entries: the title/one-liner paragraph sits directly above its
+   collapsible abstract, so drop its trailing margin to close the gap. */
+d-article p:has(+ details),
+.d-article p:has(+ details) {
+  margin-bottom: 0;
+}
+
 .darkmode d-article,
 .darkmode d-appendix,
 .darkmode d-title,
