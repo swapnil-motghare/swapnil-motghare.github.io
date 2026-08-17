@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files/
+    - graphs/
+    - images/
+    - .nojekyll
+
+website:
+  title: "Swapnil Motghare"
+  description: "Academic website"
+  site-url: https://swapnil-motghare.github.io/
+  google-analytics: "G-PK15X6LH4Z"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+  page-footer:
+    center: "[Sitemap](sitemap.xml)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="mGPM6FKlKAcCfPDpOZ6-zrjs-VNEnYdbTwTTLUs7jZg" />
+        <meta name="keywords" content="swapnil motghare, swapnil economics, swapnil motghare economics, swapnil notre dame" />
+
+editor: source

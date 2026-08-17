@@ -1,21 +1,46 @@
-h1, h2, h3, h4, h5, h6 {
-    margin: 0;
-    padding: 0;
-    border:0;
+/* Section headings, styled to match the rule-under-heading look of the
+   previous distill site. */
+main h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: 1.6rem;
 }
 
 /* Paper entries: the title/one-liner paragraph sits directly above its
    collapsible abstract, so drop its trailing margin to close the gap. */
-d-article p:has(+ details),
-.d-article p:has(+ details) {
+main p:has(+ details) {
   margin-bottom: 0;
 }
 
-.darkmode d-article,
-.darkmode d-appendix,
-.darkmode d-title,
-.darkmode distill-site-nav distill-site-footer,
-.darkmode body {
-  background-color: black;
-  color: white;
+/* Headshot on the home page: text wraps around it. */
+.headshot {
+  float: left;
+  width: 30%;
+  margin: 0.25rem 1.25rem 0.75rem 0;
+}
+
+/* Contain the float so it cannot spill past the page content. */
+main.content::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media (max-width: 575px) {
+  .headshot {
+    float: none;
+    width: 60%;
+    margin: 0 0 1rem 0;
+  }
+}
+
+/* Collapsible abstracts. */
+main details {
+  margin-bottom: 1.1rem;
+}
+
+main details > summary {
+  cursor: pointer;
 }
