@@ -1,0 +1,13 @@
+/*-- scss:defaults --*/
+
+// Bootswatch themes fetch their webfont from Google's CDN through this
+// variable (cosmo pulls Source Sans Pro, darkly pulls Lato). Setting it to
+// false drops the @import from the compiled stylesheet, so no visitor request
+// ever reaches fonts.googleapis.com.
+$web-font-path: false !default;
+
+// The stack distill used, so the site keeps the typography it had before the
+// migration and renders entirely from fonts already on the reader's machine.
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial,
+  sans-serif !default;

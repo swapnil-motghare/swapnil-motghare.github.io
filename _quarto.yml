@@ -26,8 +26,8 @@ website:
 format:
   html:
     theme:
-      light: cosmo
-      dark: darkly
+      light: [cosmo, custom.scss]
+      dark: [darkly, custom.scss]
     css: styles.css
     toc: false
     include-in-header:
