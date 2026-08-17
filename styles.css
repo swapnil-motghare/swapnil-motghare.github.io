@@ -4,7 +4,9 @@ main h2 {
   margin-top: 2rem;
   margin-bottom: 1rem;
   padding-bottom: 0.3rem;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  /* Neutral grey reads correctly on both the light and dark backgrounds;
+     Bootstrap's --bs-border-color does not flip between themes. */
+  border-bottom: 1px solid rgba(128, 128, 128, 0.35);
   font-size: 1.6rem;
 }
 
@@ -12,6 +14,33 @@ main h2 {
    collapsible abstract, so drop its trailing margin to close the gap. */
 main p:has(+ details) {
   margin-bottom: 0;
+}
+
+/* Dark-mode switch. Quarto draws a generic toggle-switch icon, which does not
+   say what it does; a moon/sun reads as "change the lighting" at a glance.
+   Swapped to glyphs from the bootstrap-icons font that the theme already
+   loads, so the icon inherits the navbar text colour in both themes.
+   Quarto adds .alternate to the control while dark mode is active; these
+   selectors match its specificity and win by load order. */
+.navbar .quarto-color-scheme-toggle:not(.alternate) .bi::before,
+.navbar .quarto-color-scheme-toggle.alternate .bi::before {
+  background-image: none;
+  font-family: "bootstrap-icons";
+  font-size: 1.05rem;
+  line-height: 1;
+  width: auto;
+  height: auto;
+  vertical-align: -0.15em;
+}
+
+/* Moon while the page is light: clicking it turns the lights off. */
+.navbar .quarto-color-scheme-toggle:not(.alternate) .bi::before {
+  content: "\f495";
+}
+
+/* Sun while the page is dark: clicking it turns them back on. */
+.navbar .quarto-color-scheme-toggle.alternate .bi::before {
+  content: "\f5a1";
 }
 
 /* Headshot on the home page: text wraps around it. */
