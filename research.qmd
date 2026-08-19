@@ -24,7 +24,7 @@ I study how New York City taxicab drivers change their work hours in response to
 
 ## Working papers
 
-**Intertemporal Elasticity of Labor Supply: Evidence from New York City Taxicab Drivers Using a New Instrument** (with [Vikrant V Kamble](https://vikrant-v-kamble.github.io/))\
+**Motghare, S. and [V. V. Kamble](https://vikrant-v-kamble.github.io/). [Intertemporal Elasticity of Labor Supply: Evidence from New York City Taxicab Drivers Using a New Instrument.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7288558)**\
 *Workers work more when wages are high*
 
 <details>
@@ -32,7 +32,7 @@ I study how New York City taxicab drivers change their work hours in response to
 We estimate the intertemporal elasticity of labor supply for New York City taxicab drivers using a new instrument: the type of taximeter installed in the vehicle. The two meter systems in use display different default tip percentages, generating plausibly exogenous variation in tip income and hourly pay across shifts. Assignment to the "high-default" meter raises hourly wages by 0.5 percent, entirely through tips, and increases shift hours by 0.9 percent, implying an elasticity of 1.7. These findings align with the standard neoclassical prediction that workers supply more hours when temporary pay rises and shed light on labor-supply behavior in flexible, schedule-setting work environments more broadly.
 </details>
 
-**Unemployment insurance generosity and labor supply - Evidence from the COVID-19 recession**\
+**Motghare, S. Unemployment insurance generosity and labor supply - Evidence from the COVID-19 recession**\
 *Unemployment insurance during COVID-19 had a modest effect on Indiana's unemployment and likely prevented labor force exits.*
 
 <details>
@@ -51,7 +51,7 @@ knitr::include_graphics("graphs/ui_labor_supply_website_graph.png")
   <summary>[Poster for AEA 2023 Annual Meeting](files/aea_poster.pdf)</summary>
 </details>
 
-**Equity of COVID-19-induced job loss duration**\
+**Motghare, S. Equity of COVID-19-induced job loss duration**\
 *How does the duration of unemployment during the COVID-19 pandemic vary by gender, race, and ethnicity?*
 
 <details>
