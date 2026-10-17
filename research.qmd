@@ -61,10 +61,10 @@ I study COVID-19-induced job losses using administrative data on the universe of
 
 ## Research in progress
 
-**Motghare, S., Segal, K., [von Wachter, T.](http://www.econ.ucla.edu/tvwachter/), and Wilson, E. (2026–2027). Experimental Evidence on the Effect of Employer Outreach on Work Sharing Participation**\
+**Motghare, S., Segal, K., [von Wachter, T.](http://www.econ.ucla.edu/tvwachter/), and Wilson, E. Experimental Evidence on the Effect of Employer Outreach on Work Sharing Participation. _In the field_**\
 *Work sharing lets firms cut hours instead of laying people off — does telling employers it exists change whether they use it?*
 
-**Hyman, B., Motghare, S., Segal, K., and [von Wachter, T.](http://www.econ.ucla.edu/tvwachter/) (2026–2027). Experimental Evidence on the Effect of Case Worker Intensity on Reemployment**\
+**Hyman, B., Motghare, S., Segal, K., and [von Wachter, T.](http://www.econ.ucla.edu/tvwachter/) Experimental Evidence on the Effect of Case Worker Intensity on Reemployment. _In design_**\
 *Do unemployed workers get back to work faster when they spend more time with a case worker?*
 
 <!--
