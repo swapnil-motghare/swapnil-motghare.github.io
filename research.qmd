@@ -65,7 +65,7 @@ I study COVID-19-induced job losses using administrative data on the universe of
 *Work sharing lets firms cut hours instead of laying people off — does telling employers it exists change whether they use it?*
 
 **Hyman, B., Motghare, S., Segal, K., and [von Wachter, T.](http://www.econ.ucla.edu/tvwachter/) Experimental Evidence on the Effect of Case Worker Intensity on Reemployment. _In design_**\
-*Do unemployed workers get back to work faster when they spend more time with a case worker?*
+*Do unemployed workers in California's RESEA program get back to work faster when they spend more time with a case worker?*
 
 <!--
 **Evaluating Right-to-Work laws using Census data,** (with Ye Ji Kee and [Yong Suk Lee](https://keough.nd.edu/profile/yong-suk-lee/))\
