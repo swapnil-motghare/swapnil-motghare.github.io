@@ -24,7 +24,7 @@ I study how New York City taxicab drivers change their work hours in response to
 
 ## Working papers
 
-**Motghare, S. and [V. V. Kamble](https://vikrant-v-kamble.github.io/) (2026). [Intertemporal Elasticity of Labor Supply: Evidence from New York City Taxicab Drivers Using a New Instrument.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7288558)**\
+**Motghare, S. and [V. V. Kamble](https://vikrant-v-kamble.github.io/) (2026). [Intertemporal Elasticity of Labor Supply: Evidence from New York City Taxicab Drivers Using a New Instrument.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7288558) _Under review at Labour Economics_**\
 *Workers work more when wages are high*
 
 <details>
